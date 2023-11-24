@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ixoni
+- 👀 I’m interested in everything home automation
+- 🌱 I’m currently learning programming for Arduino / ESP
